@@ -1,1 +1,0 @@
-console.log("add in remove js")
